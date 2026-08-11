@@ -2,7 +2,7 @@
 
 rightHere.ai is an AI research assistant that generates structured, well-formatted research reports on any topic. The application combines a modern Streamlit interface, live web search, and a large language model to deliver grounded research summaries with downloadable TXT and PDF exports.
 
-The system is built as an AI agent using in-memory session states, enabling it to search the web in real-time, generate report summaries, and manage user-specific history and downloads without requiring persistent server disk storage. This makes the application **completely deployment-ready** and secure for multi-user cloud platforms.
+The system is built as a lightwieght AI agent using in-memory session states, enabling it to search the web in real-time, generate report summaries, and manage user-specific history and downloads without requiring persistent server disk storage. This makes the application **completely deployment-ready** and secure for multi-user cloud platforms.
 
 ---
 
